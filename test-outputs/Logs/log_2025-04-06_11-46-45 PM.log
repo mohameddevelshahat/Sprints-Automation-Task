@@ -1,0 +1,6 @@
+[INFO] 06-04-2025 23:46:45 [main] [Tests.TC05_SearchTest.setup(TC05_SearchTest.java:29)] - Chrome Driver is Opened
+[INFO] 06-04-2025 23:46:49 [main] [Tests.TC05_SearchTest.setup(TC05_SearchTest.java:31)] - Page is redirected to the LUMA
+[INFO] 06-04-2025 23:46:49 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:11)] - The Test Case  checkInvalidSearchTCStarted
+[INFO] 06-04-2025 23:46:49 [main] [Tests.TC05_SearchTest.checkInvalidSearchTC(TC05_SearchTest.java:60)] - @@@ as special Chars is wrote and enter clicked
+[INFO] 06-04-2025 23:46:51 [main] [Tests.TC05_SearchTest.checkInvalidSearchTC(TC05_SearchTest.java:64)] - Got no result found and check the msg
+[INFO] 06-04-2025 23:47:01 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:24)] - The Test Cases checkInvalidSearchTC Failed

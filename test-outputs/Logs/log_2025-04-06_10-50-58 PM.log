@@ -1,0 +1,10 @@
+[INFO] 06-04-2025 22:50:59 [main] [Tests.TC06_ThankYouTest.setup(TC06_ThankYouTest.java:25)] - Chrome Driver is Opened
+[INFO] 06-04-2025 22:51:02 [main] [Tests.TC06_ThankYouTest.setup(TC06_ThankYouTest.java:27)] - Page is redirected to the LUMA
+[INFO] 06-04-2025 22:51:03 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:11)] - The Test Case  completingPurchaseTCStarted
+[INFO] 06-04-2025 22:51:03 [main] [Tests.TC06_ThankYouTest.completingPurchaseTC(TC06_ThankYouTest.java:34)] - Scroll to the product and click on it
+[INFO] 06-04-2025 22:51:05 [main] [Tests.TC06_ThankYouTest.completingPurchaseTC(TC06_ThankYouTest.java:38)] - Adding Product to cart
+[INFO] 06-04-2025 22:51:06 [main] [Tests.TC06_ThankYouTest.completingPurchaseTC(TC06_ThankYouTest.java:42)] - Click On Cart Icon
+[INFO] 06-04-2025 22:51:08 [main] [Tests.TC06_ThankYouTest.completingPurchaseTC(TC06_ThankYouTest.java:46)] - Click On Proceed To Checkout
+[INFO] 06-04-2025 22:51:11 [main] [Tests.TC06_ThankYouTest.completingPurchaseTC(TC06_ThankYouTest.java:50)] - Fill Shipping Address Details
+[INFO] 06-04-2025 22:51:14 [main] [Tests.TC06_ThankYouTest.completingPurchaseTC(TC06_ThankYouTest.java:56)] - Click on Place Order to place your order adn check the thanks msg
+[INFO] 06-04-2025 22:51:20 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:16)] - The Test Case  completingPurchaseTCPassed

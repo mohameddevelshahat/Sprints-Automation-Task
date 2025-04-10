@@ -1,0 +1,10 @@
+[INFO] 06-04-2025 15:12:44 [main] [Tests.TC03_ReviewTest.setup(ReviewTest.java:28)] - Chrome Driver is Opened
+[INFO] 06-04-2025 15:12:47 [main] [Tests.TC03_ReviewTest.setup(ReviewTest.java:30)] - Page is redirected to the LUMA
+[INFO] 06-04-2025 15:12:47 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:11)] - The Test Case  clickOnProceedToCheckoutStarted
+[INFO] 06-04-2025 15:12:47 [main] [Tests.TC03_ReviewTest.clickOnProceedToCheckout(ReviewTest.java:37)] - Scroll to the product and click on it
+[INFO] 06-04-2025 15:12:49 [main] [Tests.TC03_ReviewTest.clickOnProceedToCheckout(ReviewTest.java:41)] - Adding Product to cart
+[INFO] 06-04-2025 15:12:50 [main] [Tests.TC03_ReviewTest.clickOnProceedToCheckout(ReviewTest.java:45)] - Click On Cart Icon
+[INFO] 06-04-2025 15:12:52 [main] [Tests.TC03_ReviewTest.clickOnProceedToCheckout(ReviewTest.java:49)] - Click On Proceed To Checkout
+[INFO] 06-04-2025 15:12:55 [main] [Tests.TC03_ReviewTest.clickOnProceedToCheckout(ReviewTest.java:53)] - Fill Shipping Address Details
+[INFO] 06-04-2025 15:12:59 [main] [Tests.TC03_ReviewTest.clickOnProceedToCheckout(ReviewTest.java:59)] - Click on Place Order to place your order
+[INFO] 06-04-2025 15:13:01 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:16)] - The Test Case  clickOnProceedToCheckoutPassed

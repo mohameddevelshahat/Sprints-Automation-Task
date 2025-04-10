@@ -1,0 +1,10 @@
+[INFO] 06-04-2025 15:25:57 [main] [Tests.TC06_ThankYouTest.setup(ThankYouTest.java:25)] - Chrome Driver is Opened
+[INFO] 06-04-2025 15:26:00 [main] [Tests.TC06_ThankYouTest.setup(ThankYouTest.java:27)] - Page is redirected to the LUMA
+[INFO] 06-04-2025 15:26:01 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:11)] - The Test Case  clickOnProceedToCheckoutStarted
+[INFO] 06-04-2025 15:26:01 [main] [Tests.TC06_ThankYouTest.clickOnProceedToCheckout(ThankYouTest.java:34)] - Scroll to the product and click on it
+[INFO] 06-04-2025 15:26:03 [main] [Tests.TC06_ThankYouTest.clickOnProceedToCheckout(ThankYouTest.java:38)] - Adding Product to cart
+[INFO] 06-04-2025 15:26:04 [main] [Tests.TC06_ThankYouTest.clickOnProceedToCheckout(ThankYouTest.java:42)] - Click On Cart Icon
+[INFO] 06-04-2025 15:26:05 [main] [Tests.TC06_ThankYouTest.clickOnProceedToCheckout(ThankYouTest.java:46)] - Click On Proceed To Checkout
+[INFO] 06-04-2025 15:26:08 [main] [Tests.TC06_ThankYouTest.clickOnProceedToCheckout(ThankYouTest.java:50)] - Fill Shipping Address Details
+[INFO] 06-04-2025 15:26:13 [main] [Tests.TC06_ThankYouTest.clickOnProceedToCheckout(ThankYouTest.java:56)] - Click on Place Order to place your order adn check the thanks msg
+[INFO] 06-04-2025 15:26:19 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:24)] - The Test Cases clickOnProceedToCheckout Failed

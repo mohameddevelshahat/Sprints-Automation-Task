@@ -1,0 +1,6 @@
+[INFO] 05-04-2025 22:57:31 [main] [Tests.TC02_ProductTest.setup(ProductTest.java:27)] - Chrome Driver is Opened
+[INFO] 05-04-2025 22:57:35 [main] [Tests.TC02_ProductTest.setup(ProductTest.java:29)] - Page is redirected to the LUMA
+[INFO] 05-04-2025 22:57:36 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:11)] - The Test Case  addingProductToCartStarted
+[INFO] 05-04-2025 22:57:36 [main] [Tests.TC02_ProductTest.addingProductToCart(ProductTest.java:42)] - Scroll to the product and click on it
+[INFO] 05-04-2025 22:57:36 [main] [Tests.TC02_ProductTest.addingProductToCart(ProductTest.java:46)] - Adding Product to cart
+[INFO] 05-04-2025 22:57:47 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:24)] - The Test Cases addingProductToCart Failed

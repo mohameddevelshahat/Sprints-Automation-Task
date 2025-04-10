@@ -1,0 +1,14 @@
+[INFO] 06-04-2025 15:24:57 [main] [Tests.TC06_ThankYouTest.setup(ThankYouTest.java:25)] - Chrome Driver is Opened
+[INFO] 06-04-2025 15:25:33 [main] [Tests.TC06_ThankYouTest.setup(ThankYouTest.java:27)] - Page is redirected to the LUMA
+[INFO] 06-04-2025 15:25:33 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:11)] - The Test Case  clickOnProceedToCheckoutStarted
+[INFO] 06-04-2025 15:25:34 [main] [Tests.TC06_ThankYouTest.clickOnProceedToCheckout(ThankYouTest.java:34)] - Scroll to the product and click on it
+[INFO] 06-04-2025 15:25:34 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:24)] - The Test Cases clickOnProceedToCheckout Failed
+[ERROR] 06-04-2025 15:25:34 [main] [Utilities.Utility.takeScreenShots(Utility.java:91)] - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=135.0.7049.41)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ae3462e402ff9b77a74f24d9451dab94, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.41, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: C:\Users\moham\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57579}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57579/devtoo..., se:cdpVersion: 135.0.7049.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ae3462e402ff9b77a74f24d9451dab94

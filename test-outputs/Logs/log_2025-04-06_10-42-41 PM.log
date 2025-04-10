@@ -1,0 +1,9 @@
+[INFO] 06-04-2025 22:42:41 [main] [Tests.TC04_ShippingTest.setup(ShippingTest.java:27)] - Chrome Driver is Opened
+[INFO] 06-04-2025 22:42:45 [main] [Tests.TC04_ShippingTest.setup(ShippingTest.java:29)] - Page is redirected to the LUMA
+[INFO] 06-04-2025 22:42:45 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:11)] - The Test Case  fillingShippingDetailsStarted
+[INFO] 06-04-2025 22:42:45 [main] [Tests.TC04_ShippingTest.fillingShippingDetails(ShippingTest.java:36)] - Scroll to the product and click on it
+[INFO] 06-04-2025 22:42:47 [main] [Tests.TC04_ShippingTest.fillingShippingDetails(ShippingTest.java:40)] - Adding Product to cart
+[INFO] 06-04-2025 22:42:48 [main] [Tests.TC04_ShippingTest.fillingShippingDetails(ShippingTest.java:44)] - Click On Cart Icon
+[INFO] 06-04-2025 22:42:50 [main] [Tests.TC04_ShippingTest.fillingShippingDetails(ShippingTest.java:48)] - Click On Proceed To Checkout
+[INFO] 06-04-2025 22:42:52 [main] [Tests.TC04_ShippingTest.fillingShippingDetails(ShippingTest.java:52)] - Fill Shipping Address Details
+[INFO] 06-04-2025 22:42:57 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:16)] - The Test Case  fillingShippingDetailsPassed
