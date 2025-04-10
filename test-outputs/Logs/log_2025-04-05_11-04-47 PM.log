@@ -1,5 +1,0 @@
-[INFO] 05-04-2025 23:04:47 [main] [Tests.TC02_ProductTest.setup(ProductTest.java:28)] - Chrome Driver is Opened
-[INFO] 05-04-2025 23:04:54 [main] [Tests.TC02_ProductTest.setup(ProductTest.java:30)] - Page is redirected to the LUMA
-[INFO] 05-04-2025 23:04:54 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:11)] - The Test Case  clickOnTheProductStarted
-[INFO] 05-04-2025 23:04:54 [main] [Tests.TC02_ProductTest.clickOnTheProduct(ProductTest.java:36)] - Scroll to the product and click on it
-[INFO] 05-04-2025 23:04:55 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:24)] - The Test Cases clickOnTheProduct Failed

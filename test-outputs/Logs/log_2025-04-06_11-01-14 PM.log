@@ -1,6 +1,0 @@
-[INFO] 06-04-2025 23:01:15 [main] [Tests.TC05_SearchTest.setup(TC05_SearchTest.java:28)] - Chrome Driver is Opened
-[INFO] 06-04-2025 23:01:18 [main] [Tests.TC05_SearchTest.setup(TC05_SearchTest.java:30)] - Page is redirected to the LUMA
-[INFO] 06-04-2025 23:01:19 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:11)] - The Test Case  checkTheVisibilityOfValidSearchTCStarted
-[INFO] 06-04-2025 23:01:19 [main] [Tests.TC05_SearchTest.checkTheVisibilityOfValidSearchTC(TC05_SearchTest.java:37)] - Argus is wrote
-[INFO] 06-04-2025 23:01:19 [main] [Tests.TC05_SearchTest.checkTheVisibilityOfValidSearchTC(TC05_SearchTest.java:41)] - The Search Keyword is found
-[INFO] 06-04-2025 23:01:19 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:16)] - The Test Case  checkTheVisibilityOfValidSearchTCPassed

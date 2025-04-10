@@ -1,5 +1,0 @@
-[INFO] 05-04-2025 21:07:15 [main] [Tests.TC01_LandingTest.setup(LandingTest.java:26)] - Chrome Driver is Opened
-[INFO] 05-04-2025 21:07:19 [main] [Tests.TC01_LandingTest.setup(LandingTest.java:28)] - Page is redirected to the LUMA
-[INFO] 05-04-2025 21:07:20 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:11)] - The Test Case  WriteValidSearchKeyWordAndClickOnSearchStarted
-[INFO] 05-04-2025 21:07:20 [main] [Tests.TC01_LandingTest.WriteValidSearchKeyWordAndClickOnSearch(LandingTest.java:41)] - Argus is Wrote
-[INFO] 05-04-2025 21:07:20 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:16)] - The Test Case  WriteValidSearchKeyWordAndClickOnSearchPassed

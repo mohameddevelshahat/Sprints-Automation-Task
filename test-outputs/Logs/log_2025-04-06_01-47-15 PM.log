@@ -1,9 +1,0 @@
-[INFO] 06-04-2025 13:47:16 [main] [Tests.TC04_ShippingTest.setup(ShippingTest.java:27)] - Chrome Driver is Opened
-[INFO] 06-04-2025 13:47:20 [main] [Tests.TC04_ShippingTest.setup(ShippingTest.java:29)] - Page is redirected to the LUMA
-[INFO] 06-04-2025 13:47:21 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:11)] - The Test Case  clickOnProceedToCheckoutStarted
-[INFO] 06-04-2025 13:47:21 [main] [Tests.TC04_ShippingTest.clickOnProceedToCheckout(ShippingTest.java:36)] - Scroll to the product and click on it
-[INFO] 06-04-2025 13:47:24 [main] [Tests.TC04_ShippingTest.clickOnProceedToCheckout(ShippingTest.java:40)] - Adding Product to cart
-[INFO] 06-04-2025 13:47:25 [main] [Tests.TC04_ShippingTest.clickOnProceedToCheckout(ShippingTest.java:44)] - Click On Cart Icon
-[INFO] 06-04-2025 13:47:28 [main] [Tests.TC04_ShippingTest.clickOnProceedToCheckout(ShippingTest.java:48)] - Click On Proceed To Checkout
-[INFO] 06-04-2025 13:47:32 [main] [Tests.TC04_ShippingTest.clickOnProceedToCheckout(ShippingTest.java:52)] - Fill Shipping Address Details
-[INFO] 06-04-2025 13:47:42 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:24)] - The Test Cases clickOnProceedToCheckout Failed

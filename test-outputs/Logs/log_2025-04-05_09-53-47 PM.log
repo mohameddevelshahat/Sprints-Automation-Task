@@ -1,6 +1,0 @@
-[INFO] 05-04-2025 21:53:47 [main] [Tests.TC05_SearchTest.setup(SearchTest.java:27)] - Chrome Driver is Opened
-[INFO] 05-04-2025 21:53:51 [main] [Tests.TC05_SearchTest.setup(SearchTest.java:29)] - Page is redirected to the LUMA
-[INFO] 05-04-2025 21:53:52 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:11)] - The Test Case  checkTheVisibilityOfInValidSearchKeywordStarted
-[INFO] 05-04-2025 21:53:52 [main] [Tests.TC05_SearchTest.checkTheVisibilityOfInValidSearchKeyword(SearchTest.java:50)] - @@@ as special Char is wrote
-[INFO] 05-04-2025 21:53:52 [main] [Tests.TC05_SearchTest.checkTheVisibilityOfInValidSearchKeyword(SearchTest.java:54)] - no results found
-[INFO] 05-04-2025 21:54:04 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:24)] - The Test Cases checkTheVisibilityOfInValidSearchKeyword Failed

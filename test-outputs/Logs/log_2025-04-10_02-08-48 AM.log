@@ -1,6 +1,0 @@
-[INFO] 10-04-2025 02:08:49 [main] [Tests.TC02_ProductTest.setup(TC02_ProductTest.java:27)] - Chrome Driver is Opened
-[INFO] 10-04-2025 02:08:52 [main] [Tests.TC02_ProductTest.setup(TC02_ProductTest.java:29)] - Page is redirected to the LUMA
-[INFO] 10-04-2025 02:08:52 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:11)] - The Test Case  productAddedToCartSuccessfullyValidationTCStarted
-[INFO] 10-04-2025 02:08:53 [main] [Tests.TC02_ProductTest.productAddedToCartSuccessfullyValidationTC(TC02_ProductTest.java:69)] - Scroll to the product and click on it
-[INFO] 10-04-2025 02:08:54 [main] [Tests.TC02_ProductTest.productAddedToCartSuccessfullyValidationTC(TC02_ProductTest.java:73)] - Adding Product to cart
-[INFO] 10-04-2025 02:08:58 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:16)] - The Test Case  productAddedToCartSuccessfullyValidationTCPassed
